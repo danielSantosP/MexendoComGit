@@ -12,5 +12,5 @@ package mexendocomgit;
 public class eeei2 {
     int a;
     
-    huaeauheauehuahe;
+    int huaeauheauehuahe;
 }
